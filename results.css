@@ -1,0 +1,11 @@
+.circle-image-logo-wrapper {
+    display: flex;
+    justify-content: center;
+    padding-top:10rem;
+
+}
+
+.circle-image-logo-wrapper img {
+    width:10.5rem;
+}
+
